@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Alumno/Desktop/Harry-Potter-Game/TheGame/Content/NewLevel.umap",
+				"C:/Users/Alumno/Desktop/Harry-Potter-Game/TheGame/Content/Blueprints/Magic_Proyectil.uasset",
+				"C:/Users/Alumno/Desktop/Harry-Potter-Game/TheGame/Content/ThirdPerson/Blueprints/E_SpellType.uasset",
+				"C:/Users/Alumno/Desktop/Harry-Potter-Game/TheGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Usuario/Desktop/TheGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Usuario/Desktop/TheGame/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/Usuario/Desktop/TheGame/Content/__ExternalActors__/Hogwarts/0/OP/8P88QN16E6GFCEM2R11RCP.uasset",
